@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="version">versión 0.0</string>
+    <string name="todo">TODO</string>
+    <string name="Empezar">Comenzar</string>
+    <string name="Finalizar">Terminar</string>
+</resources>

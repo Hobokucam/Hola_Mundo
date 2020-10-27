@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">salut monde</string>
+    <string name="titulo_app" translatable="false">Mon bonjour monde</string>
+    <string name="bienvenida" translatable="false">Bienvenue sur mon appli!</string>
+    <string name="presetacion" translatable="false">Ceci est une application de test</string>
+    <string name="version">version 0.0</string>
+    <string name="todo">Tout</string>
+    <string name="Empezar">Début</string>
+    <string name="Finalizar">Finir</string>
+</resources>

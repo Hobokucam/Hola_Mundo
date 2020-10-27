@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="padleft" type="dimen">45</item>
+    <dimen name="padtop">100</dimen>
+    <dimen name="padstart">50</dimen>
+</resources>

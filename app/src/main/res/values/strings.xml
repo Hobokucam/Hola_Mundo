@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Hola  Mundo</string>
+    <string name="titulo_app" translatable="false">Mi Hola Mundo</string>
+    <string name="bienvenida" translatable="false">Bienbenido a mi App!</string>
+    <string name="presetacion" translatable="false">Esta es una app de prueba</string>
+    <string name="version">versión 0.0</string>
+    <string name="bienvenida" translatable="false">Bienvenido a mi App!</string>
+    <string name="todo" translatable="false">T</string>
+    <string name="Empezar">Comenzar</string>
+    <string name="Finalizar">Terminar</string>
+</resources>
